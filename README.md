@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm a developer who work in ShenZhen,China. and I'm trying to be a fullstack developer.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true&hide_border=true&icon_color=red)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeDevin&theme=highcontrast&layout=compact&border_radius=50%)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeDevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 <!--
 **AwesomeDevin/AwesomeDevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
