@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a developer who work in ShenZhen,China. and I'm trying to be a fullstack developer.
+I'm a developer who work in China. and I'm trying to be a fullstack developer.
 
 ![AwesomeDevin's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awesomedevin&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true&hide_border=true&icon_color=red)
 
