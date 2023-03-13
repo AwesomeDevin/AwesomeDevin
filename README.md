@@ -6,10 +6,10 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 
 ### Valuable Open Source Projects, Thanks For Your ✨ Star ✨:
-- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - Waterfall adaptive plugin for vue and support lazy load , so easy!
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load , so easy!
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State management for vue (Vue3 / Vue2) based on zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework State Management And Sharing In Iframe, Micro-Front, ModuleFederation, Componentization, Etc For Vue/React.
-- [image-color-uatils](https://github.com/AwesomeDevin/ImageColorUtils) - Image color processing tool, Operate image pixels, such as pickup color, color contrast, etc.
+- [image-color-uatils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, Operate image pixels, such as pickup color, color contrast, etc.
 
 
 
