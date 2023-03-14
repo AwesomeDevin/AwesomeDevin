@@ -10,7 +10,7 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State Management For Vue (Vue3 / Vue2) Based On Zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework State Management And Sharing In Iframe, Micro-Front, ModuleFederation, Componentization, Etc For Vue / React.
 - [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Supports The Preloading Of Resources ( JS / Component / Module-Federation / Svg / Png , Etc) By Route.
-- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image Color Processing Tool, Operate Image Pixels, Such As Pickup Color, Compare Color, Etc.
+- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image Color Processing Tool, Operate Image Pixels, Such As Pickup Color, Contrast Color Similarity, Etc.
 
 
 
