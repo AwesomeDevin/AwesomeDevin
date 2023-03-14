@@ -6,11 +6,11 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 
 ### Valuable Open Source Projects, Thanks For Your ✨ Star ✨:
-- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load , so easy!
-- [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State management for vue (Vue3 / Vue2) based on zustand.
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall Adaptive Plugin For Vue And Support Lazy Load , So Easy!
+- [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State Management For Vue (Vue3 / Vue2) Based On Zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework State Management And Sharing In Iframe, Micro-Front, ModuleFederation, Componentization, Etc For Vue / React.
-- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Supports the preloading of resources ( js / component / module-federation / svg / png , etc) by route.
-- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, Operate image pixels, such as pickup color, color contrast, etc.
+- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Supports The Preloading Of Resources ( JS / Component / Module-Federation / Svg / Png , Etc) By Route.
+- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image Color Processing Tool, Operate Image Pixels, Such As Pickup Color, Color Contrast, Etc.
 
 
 
