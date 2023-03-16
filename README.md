@@ -6,11 +6,11 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 
 ### Valuable Open Source Projects, Thanks For Your ✨ Star ✨:
-- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall Adaptive Plugin For Vue And Support Lazy Load , So Easy!
-- [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State Management For Vue (Vue3 / Vue2) Based On Zustand.
-- [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework State Management And Sharing In Iframe, Micro-Front, ModuleFederation, Componentization, Etc For Vue / React.
-- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Supports The Preloading Of Resources ( JS / Component / Module-Federation / Svg / Png , Etc) By Route.
-- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image Color Processing Tool, Operate Image Pixels, Such As Pickup Color, Contrast Color Similarity, Etc.
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
+- [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State-Management for vue (vue3 / vue2) based on zustand.
+- [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, modulefederation, componentization, etc for vue / react.
+- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Focus on improving the first screen loading speed of applications and providing the best user experience. 
+- [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, operate image pixels, such as pickup color, contrast color similarity, etc.
 
 
 
