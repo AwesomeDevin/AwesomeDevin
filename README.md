@@ -5,7 +5,7 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 
-### Valuable Open Source Projects, Thanks For Your ✨ Star ✨:
+### Open-Source projects that might help you, thanks for your ✨ star ✨:
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State-Management for vue (vue3 / vue2) based on zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, modulefederation, componentization, etc for vue / react.
