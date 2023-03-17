@@ -9,7 +9,7 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State-Management for vue (vue3 / vue2) based on zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, modulefederation, componentization, etc for vue / react.
-- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Support automatic the preloading of resources ( JS / Component / Module-Federation / Svg / Png , Etc) by route and providing the best user experience.. 
+- [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Focus on improving the first screen loading speed of applications and providing the best user experience, like [the preloading of NextJS](https://web.dev/route-prefetching-in-nextjs/).  
 - [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, operate image pixels, such as pickup color, contrast color similarity, etc.
 
 
