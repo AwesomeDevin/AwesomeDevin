@@ -5,7 +5,7 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
 
-## These open-source projects may help you 😛, thanks for your ✨ star ✨:
+## These open-source projects may help you 😆, thanks for your ✨ star ✨:
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State-Management for vue (vue3 / vue2) based on zustand.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, modulefederation, componentization, etc for vue / react.
 - [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Focus on improving the first screen loading speed of applications and providing the best user experience, inspiration comes from [the preloading of NextJS](https://web.dev/route-prefetching-in-nextjs/).  
