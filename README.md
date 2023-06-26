@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a developer who work in China. and I'm trying to be a fullstack developer.
+I'm a developer who works in China. and I'm trying to be a full-stack developer.
 
 ![AwesomeDevin's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awesomedevin&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true&hide_border=true&icon_color=red)
 
@@ -7,13 +7,13 @@ I'm a developer who work in China. and I'm trying to be a fullstack developer.
 
 ## These open-source projects may help you 😆, thanks for your ✨ star ✨:
 - [zustand-vue](https://github.com/AwesomeDevin/zustand-vue) - 🐻 State-Management for vue (vue3 / vue2) based on zustand.
-- [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, modulefederation, componentization, etc for vue / react.
+- [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) - 🐻 Cross-Application/Cross-Framework state management and sharing in iframe, micro-front, module federation, componentization, etc for vue / react.
 - [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Focus on improving the first screen loading speed of applications and providing the best user experience, inspiration comes from [the preloading of NextJS](https://web.dev/route-prefetching-in-nextjs/).  
 - [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, operate image pixels, such as pickup color, contrast color similarity, etc.
-- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy !
+- [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
 
 
-## If you have any develop question, you can join this wechat group 📖.
+## If you have any development questions, welcome to join the WeChat group 📖 and communicate.
 <img src="https://github.com/AwesomeDevin/AwesomeDevin/assets/22369504/d02c922a-1b3c-49ea-99de-d4891ff525d9" width="250" />
 
 
