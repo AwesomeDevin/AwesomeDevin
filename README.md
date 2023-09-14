@@ -13,8 +13,8 @@ I'm a developer who works in China. and I'm trying to be a full-stack developer.
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
 
 
-## If you have any development questions, welcome to join the WeChat group 📖 and communicate.
-<img src="https://github.com/AwesomeDevin/AwesomeDevin/assets/22369504/d02c922a-1b3c-49ea-99de-d4891ff525d9" width="250" />
+## If you have any development questions, Welcome to communicate with me.
+
 
 
 <!-- 
