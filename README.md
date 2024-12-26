@@ -11,6 +11,7 @@ I'm a developer who works in China. and I'm trying to be a full-stack developer.
 - [route-resource-preload](https://github.com/AwesomeDevin/route-resource-preload) - 🚀 Focus on improving the first screen loading speed of applications and providing the best user experience, inspiration comes from [the preloading of NextJS](https://web.dev/route-prefetching-in-nextjs/).  
 - [image-color-utils](https://github.com/AwesomeDevin/ImageColorUtils) - 🛠 Image color processing tool, operate image pixels, such as pickup color, contrast color similarity, etc.
 - [vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2) - 🧩 Waterfall adaptive plugin for vue and support lazy load, so easy!
+- [banner-responsive](https://github.com/AwesomeDevin/banner-responsive) - 🌄 Perfect adaptive banner solution And Ensure that the banner is fully visible
 
 ## If you have any developed questions, Welcome to communicate with me on WeChat.
 
