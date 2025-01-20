@@ -16,7 +16,9 @@ I'm a developer who works in China. and I'm trying to be a full-stack developer.
 
 ## If you have any develop questions, Welcome to join us and communicate on WeChat.
 
-<img src="https://github.com/user-attachments/assets/1772a0ea-cbe6-4f72-af0f-bd84ed51b761" width="250" />
+<img src="https://github.com/user-attachments/assets/2f0651d9-9ca6-4d83-9d32-44bcc74c42ec" width="250" />
+
+
 
 
 
