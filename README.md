@@ -1,9 +1,7 @@
 ## Hi there 👋
 I'm a developer who works in China. and I'm trying to be a full-stack developer.
 
-![AwesomeDevin's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awesomedevin&show_icons=true&theme=highcontrast&count_private=true&border_radius=50%&include_all_commits=true&hide_border=true&icon_color=red)
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awesomedevin&theme=highcontrast&layout=compact&border_radius=50%&hide_border=true)
+![AwesomeDevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=radical)
 
 ## These open-source projects may help you 😆, thanks for your ✨ star ✨:
 - [banner-responsive](https://github.com/AwesomeDevin/banner-responsive) - 🌄 Perfect adaptive banner solution And Ensure that the banner is fully visible. 
