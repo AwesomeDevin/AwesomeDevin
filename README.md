@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a developer who works in China. and I'm trying to be a full-stack developer.
 
-[![AwesomeDevin's GitHub stats](https://github-prifile-stat-git-main-awesomedevins-projects.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=radical)](https://github-prifile-stat-git-main-awesomedevins-projects.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=radical)
+[AwesomeDevin's GitHub stats](https://github-prifile-stat-git-main-awesomedevins-projects.vercel.app/api?username=AwesomeDevin&show_icons=true&theme=radical)
 
 
 ## These open-source projects may help you 😆, thanks for your ✨ star ✨:
